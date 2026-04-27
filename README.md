@@ -30,6 +30,3 @@
   A simple ILSM model implemented in Python. 
 - #### [Bonds Calculator in Python](https://github.com/fedeglan/my-projects/blob/main/Code/Bonds%20Calculator.ipynb)
   Full bond calculator: cash flow schedule visualization, NPV and IRR calculation. 
-
-Also, i invite you to visit my Medium page: 
-https://medium.com/@fglancszpigel 
