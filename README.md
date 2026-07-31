@@ -30,3 +30,5 @@
   A simple ILSM model implemented in Python. 
 - #### [Bonds Calculator in Python](https://github.com/fedeglan/my-projects/blob/main/Code/Bonds%20Calculator.ipynb)
   Full bond calculator: cash flow schedule visualization, NPV and IRR calculation. 
+- #### [Carry Trade with Regime Shift in Emerging Markets](https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/Carry%20Trade%20with%20Regime%20Shift.ipynb)
+  Comparison of regime detection models applied to EM currency trading.
