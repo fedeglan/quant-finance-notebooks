@@ -32,3 +32,5 @@
   Full bond calculator: cash flow schedule visualization, NPV and IRR calculation. 
 - #### [Carry Trade with Regime Shift in Emerging Markets](https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/Carry%20Trade%20with%20Regime%20Shift.ipynb)
   Comparison of regime detection models applied to EM currency trading.
+- #### [Is Causal Factor Investing Worth It?] (https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/Causal_Factor_Investing_Replication.ipynb)
+  Comparison of the associational factor model vs the causal factor model in equities.
