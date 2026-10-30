@@ -36,3 +36,5 @@
   Comparison of the associational factor model vs the causal factor model in equities.
 - #### [Kalshi vs. the VIX: Who Prices the S&P 500 Better?](https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/Kalshi%20vs%20VIX.ipynb)
   Comparison of Kalshi's daily S&P 500 probabilities against VIX-implied probabilities, with a walk-forward backtest.
+- #### [Alpha Decay: Where Are the "Textbook" Signals Today?](https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/Alpha%20Decay%20Analysis.ipynb)
+  Post-publication decay of 13 classic signals (value, momentum, carry, trend and others), tracked from their original samples to September 2026.
