@@ -38,3 +38,5 @@
   Comparison of Kalshi's daily S&P 500 probabilities against VIX-implied probabilities, with a walk-forward backtest.
 - #### [Alpha Decay: Where Are the "Textbook" Signals Today?](https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/Alpha%20Decay%20Analysis.ipynb)
   Post-publication decay of 13 classic signals (value, momentum, carry, trend and others), tracked from their original samples to September 2026.
+- #### [Portfolio Optimization in Statistical Arbitrage: A Deep Dive](https://github.com/fedeglan/quant-finance-notebooks/blob/main/Code/StatArb%20-%20Portfolio%20optimization%20methods.ipynb)
+  Comparison of 19 position-sizing methods (1/N, shrinkage, HRP/HERC/NCO, min CVaR, ML) on pairs and PCA-residual stat-arb books, 2014–2026.
